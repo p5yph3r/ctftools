@@ -1,0 +1,5 @@
+usage :-
+1. Add files which you want to serve in this file (fast_server)
+2. chmod a+x server.sh
+3.  start server using ./server.sh
+Enjoy ..!!!
